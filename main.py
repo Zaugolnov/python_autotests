@@ -4,7 +4,7 @@ URL = 'https://api.pokemonbattle.me/v2'
 TOKEN = 'c33d0ef54ba97d65f3daa821520e9068'
 HEADER = {
         'Content-Type': 'application/json',
-        "trainer_token": 'c33d0ef54ba97d65f3daa821520e9068'
+        "trainer_token": 'token'
           }
 
 POKEMON_ID = "17161"
